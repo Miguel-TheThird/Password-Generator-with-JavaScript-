@@ -7,14 +7,12 @@ All characters on our keyboard have different codes assigned to them, and these 
 
 ## Application preview
 
-
+![Password generator page](./assets/images/screencapture.png)
 
 ## Link to deployed page
 
-[https://miguel-thethird.github.io/Password-Generator-with-JavaScript-/.]
+[https://miguel-thethird.github.io/Password-Generator-with-JavaScript-/]
 
-<!-- ![portfolio page](./Assets/images/captured-screenshoot.png) -->
-<!-- [https://miguel-thethird.github.io/Homework-02/] -->
 
 ### ASCII character table
 
